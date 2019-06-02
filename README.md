@@ -1,2 +1,2 @@
 # hello-world
-The obligatory hell-world learning/practice repo.
+The obligatory hello-world learning/practice repo.
